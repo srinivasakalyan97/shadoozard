@@ -1,0 +1,22 @@
+{
+  "name": "shadoozard",
+  "version": "1.0.0",
+  "description": "Add awesome shadows",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/srinivasakalyan97/shadoozard.git"
+  },
+  "keywords": [
+    "shadow"
+  ],
+  "author": "MSK97",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/srinivasakalyan97/shadoozard/issues"
+  },
+  "homepage": "https://github.com/srinivasakalyan97/shadoozard#readme"
+}
